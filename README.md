@@ -24,7 +24,7 @@ This project is a Sonic-themed infinite runner game built using JavaScript and t
   ```
 4.**Open the game in your browser**
   ```bash
-  http://localhost:3000
+  http://localhost:5173/Sonic-runner/
   ```
  ## Project Structure
   - `kaplayContext.js`: Sets up the Kaplay context.
