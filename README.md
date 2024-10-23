@@ -1,6 +1,11 @@
 "# Sonic-runner" 
 # Sonic Runner Game with Kaplay Library
 
+## Run Online
+
+[Sonic-Runner-Game](https://yash-pandey07.github.io/Sonic-Runner-Game/)
+![Sonic-Runner-Game image](vite.jpg)
+
 This project is a Sonic-themed infinite runner game built using JavaScript and the Kaplay game development library. The game features classic Sonic mechanics, including jumping over enemies and collecting coins to achieve the highest score.
 
 ## Prerequisites
